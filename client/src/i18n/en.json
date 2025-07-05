@@ -1,0 +1,30 @@
+{
+    "home": "Home",
+    "countries": "Countries",
+    "revisited": "Revisited",
+    "back": "Back",
+    "name": "Name",
+    "surname": "Surname",
+    "country": "Country",
+    "birthday": "Birthday",
+    "save": "Save",
+    "delete": "Delete",
+    "greeting": "Hello, visitor from {{country}}!",
+    "add_country": "Add Country",
+    "select_country": "Country",
+    "loading": "Loading...",
+    "error": "Error",
+    "add_user": "Add User",
+    "action": "Action",
+    "welcome_select": "Welcome! Please select a country.",
+    "required_name": "Name is required",
+    "required_surname": "Surname is required",
+    "required_country": "Country is required",
+    "required_birthday": "Birthday is required",
+    "no_users": "No users found",
+    "greeting_full": "Hello {{name}} {{surname}} from {{country}}, born on {{date}}!",
+    "code": "Code"
+
+  }
+  
+  

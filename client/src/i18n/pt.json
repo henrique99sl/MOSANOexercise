@@ -1,0 +1,29 @@
+{
+    "home": "Início",
+    "countries": "Países",
+    "revisited": "Visitados",
+    "back": "Voltar",
+    "name": "Nome",
+    "surname": "Apelido",
+    "country": "País",
+    "birthday": "Aniversário",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "greeting": "Olá, visitante de {{country}}!",
+    "add_country": "Adicionar País",
+    "select_country": "País",
+    "loading": "A carregar...",
+    "error": "Erro",
+    "action": "Ação",
+    "add_user": "Adicionar Utilizador",
+    "welcome_select": "Bem-vindo! Por favor selecione um país.",
+    "required_name": "O nome é obrigatório",
+    "required_surname": "O apelido é obrigatório",
+    "required_country": "O país é obrigatório",
+    "no_users": "Não existem utilizadores",
+    "required_birthday": "A data de nascimento é obrigatória",
+    "greeting_full": "Olá {{name}} {{surname}} de {{country}}, nascido em {{date}}!",
+    "code": "Código"
+
+  }
+  
